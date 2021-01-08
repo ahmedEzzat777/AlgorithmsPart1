@@ -1,2 +1,2 @@
 # AlgorithmsPart1
-My solutions to programming assignments in Algorithms, Part I, Princenton course.
+My solutions to programming assignments in Algorithms, Part I, Princeton course.
