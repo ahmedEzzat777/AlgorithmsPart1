@@ -1,5 +1,6 @@
 # AlgorithmsPart1
 My solutions to programming assignments in Algorithms, Part I, Princeton course.
+
 Problems Covered:
 *Percolation: https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
 *Deques and Randomized Queues: https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php
